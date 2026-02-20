@@ -73,3 +73,4 @@ func draw_card(player):
 	player.current_card = card
 	
 	print("Player", player.id, "drew card:", CardType.keys()[card])
+
